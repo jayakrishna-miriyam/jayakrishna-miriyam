@@ -1,4 +1,4 @@
-<h1 align="center">Jayakrishna Miriyam</h1>
+<h1 align="center">Jaya Krishna Miriyam</h1>
 <h3 align="center">🚀 Full-Stack Developer | Fintech & AI Enthusiast | MERN & Modern Web Technologies</h3>
 
 ---
