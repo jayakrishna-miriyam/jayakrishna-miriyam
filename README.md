@@ -1,83 +1,78 @@
-<h2>👋 About Me:</h2>
-
-🚀 Full-Stack Developer | Fintech & AI Enthusiast | Completed Master's in Computer Science  
-Here you'll find a collection of my coding adventures, showcasing my expertise in modern web technologies—from JavaScript to the MERN stack. I love building clean, intuitive, and scalable applications that solve real-world problems.
+<h1 align="center">Jayakrishna Miriyam</h1>
+<h3 align="center">🚀 Full-Stack Developer | Fintech & AI Enthusiast | MERN & Modern Web Technologies</h3>
 
 ---
 
-### 📫 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayakrishna-miriyam)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=pinterest&logoColor=white)](https://pinterest.com/jayakrishna_miriyam)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=quora&logoColor=white)](https://quora.com/profile/jayakrishna-miriyam)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jayakrishna-miriyam)
-[![Codepen](https://img.shields.io/badge/Codepen-%23000000.svg?logo=codepen&logoColor=white)](https://codepen.io/jayakrishna-miriyam)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJcX1v6tZ8KRSy6gCmtgshg)
+### 👋 About Me
+I am a passionate **Full-Stack Developer** with a Master's in Computer Science from **Campbellsville University (March 2025)**. I specialize in **web applications, fintech solutions, and AI-integrated tools**. I love building **clean, responsive, and scalable applications** that solve real-world problems.
+
+- 🔭 Currently developing **AI dashboards & fintech apps**  
+- 🌱 Continuously learning **TypeScript, Next.js, cloud-native systems, and AI workflows**  
+- 💬 Ask me about **MERN stack, Python, Java, AI tools, and automation**  
+- ⚡ Fun fact: I enjoy converting complex problems into **maintainable and efficient code**
 
 ---
 
-### 💻 Tech Stack:
-
-**Languages & Frameworks:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-
-**Web & Styling:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?logo=adobexd&logoColor=white)
-
-**Database & API:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-005571?logoColor=white)
-
-**DevOps & Cloud:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-**AI / Tools:**  
-![V0.dev](https://img.shields.io/badge/V0.dev-AI_UI-blue)
-![Make.com](https://img.shields.io/badge/Make.com-Automation-purple)
-![Lovable.dev](https://img.shields.io/badge/Lovable.dev-UI_Generator-lightblue)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+### 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayakrishna-miriyam)  
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jayakrishna-miriyam)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@jayakrishna-miriyam)  
 
 ---
 
-### 📈 GitHub Stats:
+### 💻 Tech Stack
 
-![Jayakrishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayakrishna-miriyam&show_icons=true&theme=github_dark&hide_title=false&count_private=true)
+**Frontend & Web:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript) ![React](https://img.shields.io/badge/React-61DAFB?logo=react) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
+
+**Backend & Database:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js) ![Express](https://img.shields.io/badge/Express-000000?logo=express)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql) ![REST API](https://img.shields.io/badge/REST-005571)
+
+**Programming & AI:**  
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)  
+![V0.dev](https://img.shields.io/badge/V0.dev-AI_UI-blue) ![Make.com](https://img.shields.io/badge/Make.com-Automation-purple) ![Lovable.dev](https://img.shields.io/badge/Lovable.dev-UI_Generator-lightblue)
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify) ![Git](https://img.shields.io/badge/Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code)
+
+---
+
+### 📂 Projects
+
+| Project | Description | Tech Stack | GitHub |
+|---------|-------------|------------|--------|
+| **Portfolio-Website** | Personal portfolio website to showcase skills, projects & experience | HTML, CSS, JS | [Repo](https://github.com/jayakrishna-miriyam/Portfolio-Website) |
+| **agecalculater.com** | Dynamic age calculator web app with clean UI | TypeScript, HTML, CSS | [Repo](https://github.com/jayakrishna-miriyam/agecalculater.com) |
+| **scallar-image-compressor** | Efficient image compression tool | TypeScript | [Repo](https://github.com/jayakrishna-miriyam/scallar-image-compressor) |
+| **Continuous-Top-k-Monitoring-on-Document-Streams** | Algorithm for continuous top-k monitoring on streams | Java | [Repo](https://github.com/jayakrishna-miriyam/Continuous-Top-k-Monitoring-on-Document-Streams) |
+| **first-contributions** | Beginner-friendly open-source contribution guide | Git, Markdown | [Repo](https://github.com/jayakrishna-miriyam/first-contributions) |
+
+---
+
+### 🎓 Education
+
+**Master’s in Computer Science**  
+📍 Campbellsville University — Completed March 2025
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayakrishna-miriyam&show_icons=true&theme=github_dark&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayakrishna-miriyam&layout=compact&theme=github_dark)
 
 ---
 
-### 📂 Featured Projects:
-
-- 🏨 **Hostel Management Dashboard** – MERN stack admin dashboard with authentication, secure routing, and Netlify CI/CD.  
-- 📚 **Book Store Web App** – React-based responsive e-commerce frontend with mobile-first design.  
-- 🔍 **Continuous Topic Monitoring** – Topic & keyword monitoring on document streams.
-
----
-
-### 🎓 Education:
-
-🎓 Master’s in Computer Science  
-📍 Campbellsville University — Completed (March 2025)
+### 🚀 Learning & Interests
+- Advanced **TypeScript & React patterns**  
+- **Cloud-native serverless architectures**  
+- **AI-powered automation & fintech solutions**  
+- Scalable API & microservices design  
 
 ---
 
-*Thank you for visiting my profile! Let's build something amazing together 💻✨*
+💻 *Thank you for visiting! Let’s build something amazing together ✨*
